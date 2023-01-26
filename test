@@ -6,5 +6,8 @@
     <body>
         <p>Hello world!</p>
         <p>Hello people!</p>
+        <div>
+            1
+        </div>
     </body>
 </html>
